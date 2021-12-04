@@ -1,0 +1,87 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    background:linear-gradient(to top, rgba(0,0,0, 0.5)50%,rgba(0,0,0,0.5)50%), url('bg.jpg') no-repeat center center fixed;
+    -webkit-background-size:cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size :cover;
+}
+
+logo{
+    font-size: 30px;
+    color: #fff;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.pic img{
+    width: 300px;
+    height: 300px;
+    padding-top: 20px;
+    padding-left: 10px;
+}
+
+.p p{
+    font-size: 20px;
+    color: #fff;
+    letter-spacing: 2px;
+    padding-left: 10px;
+    padding-top: 20px;
+}
+
+.tnx{
+    font-size: 20px;
+    color: #fff;
+    letter-spacing: 2px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.flw{
+    font-size: 20px;
+    color: #fff;
+    letter-spacing: 2px;
+    padding-left: 10px;
+    padding-top: 20px;
+}
+
+.list ul{
+    padding-left: 30px;
+    padding-top: 10px;
+}
+
+.list ul a{
+    text-decoration: none;
+    color: #fff;
+    font-family: Arial;
+    font-weight: bold;
+    transition: 0.6s ease-in-out;
+}
+
+.list ul a:hover{
+    color: red;
+}
+
+.end{
+    padding-left: 10px;
+    padding-top: 10px;
+    color: #fff;
+}
+
+.end a{
+    text-decoration: none;
+    color: #fff;
+    font-family: Arial;
+    font-weight: bold;
+    transition: 0.6s ease-in-out;
+}
+
+.end a:hover{
+    color: red;
+}
+
+
