@@ -7,8 +7,9 @@
 <table>
   <caption>Who Am I?</caption>
 <table border="2">
-<td>
+<tr>
   <td>About <a href="https://github.com/Cyber01warriors">Cyber Warrior🤭</a></td>
   <td>My real life😈</td>
-</td>
+</tr>
+
 </table>
