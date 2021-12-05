@@ -4,7 +4,12 @@
 
 <a href="https://cyber01warriors.github.io/IamCyber/"><img src="https://raw.githubusercontent.com/Cyber01warriors/IamCyber/main/bg.png"></a>
 
+<table>
+  <caption>Who Am I?</caption>
+<table border="2">
 <th>
-  <tr>Name</tr>
+  <tr>About <a href="https://github.com/Cyber01warriors">Cyber Warrior</a></tr>
   <tr>21321</tr>
 </th>
+
+</table>
