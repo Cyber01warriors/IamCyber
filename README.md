@@ -2,7 +2,7 @@
 
 #  This is the personal website❤🤘
 
-<a href="https://cyber01warriors.github.io/IamCyber/"><img src="https://raw.githubusercontent.com/Cyber01warriors/IamCyber/main/bg.png"></a>
+# Who Am I ?🤔
 
 <table>
   <caption>Who Am I?</caption>
@@ -10,6 +10,11 @@
 <tr>
   <td>About <a href="https://github.com/Cyber01warriors">Cyber Warrior🤭</a></td>
   <td>My real life😈</td>
+</tr>
+
+<tr>
+  <td>Nick Name=Cyber W</td>
+  <td>Real name=Hashan D</td>
 </tr>
 
 </table>
