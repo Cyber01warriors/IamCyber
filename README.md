@@ -13,8 +13,8 @@
 </tr>
 
 <tr>
-  <td>Nick Name=Cyber W</td>
-  <td>Real name=Hashan D</td>
+  <td>Nick Name=<a href="https://github.com/Cyber01warriors">Cyber W</a></td>
+  <td>Real name=<a href="https://github.com/HashanDimuthu">Hashan D</a></td>
 </tr>
 
 </table>
