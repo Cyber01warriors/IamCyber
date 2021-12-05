@@ -7,8 +7,8 @@
 <table>
   <caption>Who Am I?</caption>
 <table border="2">
-<th>
-  <td>About <a href="https://github.com/Cyber01warriors">Cyber Warrior</a></td>
-  <td>21321</td>
-</th>
+<td>
+  <td>About <a href="https://github.com/Cyber01warriors">Cyber Warrior🤭</a></td>
+  <td>My real life😈</td>
+</td>
 </table>
