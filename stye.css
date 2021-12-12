@@ -11,6 +11,15 @@ body{
     background-size :cover;
 }
 
+.navbar ul{
+    display: flex;
+    justify-content: space-around;
+    min-height: 8vh;
+    list-style: none;
+    padding-top: 20px;
+    padding-left: 10px;
+}
+
 .head logo{
     font-size: 30px;
     color: #fff;
