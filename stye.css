@@ -20,6 +20,18 @@ body{
     padding-left: 10px;
 }
 
+.navbar ul a{
+    text-decoration: none;
+    color: #fff;
+    font-family: Arial;
+    font-weight: bold;
+    transition: 0.6s ease-in-out;
+}
+
+.navbar ul a:hover{
+    color: rgb(0, 136, 247);
+}
+
 .head logo{
     font-size: 30px;
     color: #fff;
