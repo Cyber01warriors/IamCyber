@@ -84,7 +84,7 @@ body{
 
 .end{
     padding-left: 10px;
-    padding-top: 10px;
+    padding-top: 20px;
     color: #fff;
 }
 
@@ -98,4 +98,24 @@ body{
 
 .end a:hover{
     color: red;
+    margin-top: 150px;
+}
+
+.bt{
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.bt button{
+    background: none;
+}
+
+.bt img{
+    width: 20px;
+    height: 20px;
+}
+
+.hide{
+    display:none;
+    opacity:0;
 }
