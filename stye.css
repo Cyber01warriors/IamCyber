@@ -121,6 +121,10 @@ body{
     opacity:0;
 }
 
+.toast-header button{
+    color: black;
+}
+
 .cre{
     padding-left: 10px;
     padding-top: 20px;
@@ -140,4 +144,5 @@ body{
 
 .modal-footer button{
     color: black;
+    background-color: #08d4b6;
 }
