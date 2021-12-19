@@ -109,6 +109,12 @@ body{
 .bt button{
     background: none;
     border-color: red;
+    color: #fff;
+    transition: 0.6s ease-in-out;
+}
+
+.bt button:hover{
+    color: red;
 }
 
 .bt img{
@@ -133,8 +139,17 @@ body{
 .cre button{
     background: none;
     border-color: red;
+    color: #fff;
+    transition: 0.6s ease-in-out;
 }
 
+.cre button:hover{
+    color: red;
+}
+
+.cre button:hover{
+    box-shadow: red;
+}
 
 .modal-body{
     font-size: 20px;
@@ -146,4 +161,23 @@ body{
 .modal-footer button{
     color: black;
     background-color: #08d4b6;
+}
+
+.abt p{
+    color: #fff;
+    padding-top: 10px;
+    padding-left: 10px;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 20px;
+}
+
+.abt p a{
+    text-decoration: none;
+    transition: 0.6s ease-in-out;
+    color: #fff;
+}
+
+.abt p a:hover{
+    color: red;
 }
