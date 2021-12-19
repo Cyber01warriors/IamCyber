@@ -1,0 +1,96 @@
+body{
+    background:linear-gradient(to top, rgba(0,0,0, 0.5)50%,rgba(0,0,0,0.5)50%), url('https://raw.githubusercontent.com/Cyber01warriors/IamCyber/main/bg.jpg') no-repeat center center fixed;
+    -webkit-background-size:cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size :cover;
+}
+
+.img img{
+    width: 350px;
+    height: 400px;
+    padding-top: 70px;
+    padding-left: 10px;
+}
+
+.img hr{
+    color: #fff;
+}
+
+.fh h3{
+    color: #fff;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.fh p{
+    color: #fff;
+    padding-top: 10px;
+    padding-left: 10px;
+    letter-spacing: 3px; 
+    font-size: 20px;
+}
+
+.fh hr{
+    color: #fff;
+}
+
+.sh h3{
+    color: #fff;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.sh p{
+    color: #fff;
+    padding-top: 10px;
+    padding-left: 10px;
+    letter-spacing: 3px; 
+    font-style: italic;
+    font-weight: bold;
+    letter-spacing: 3px;
+    font-size: 20px;
+}
+
+.sh hr{
+    color: #fff;
+}
+
+.th h3{
+    color: #fff;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.th p{
+    color: #fff;
+    padding-top: 10px;
+    padding-left: 10px;
+    letter-spacing: 3px; 
+    font-style: italic;
+    font-weight: bold;
+    letter-spacing: 3px;
+    font-size: 20px;
+}
+
+.th hr{
+    color: #fff;
+}
+
+.end p{
+    padding-left: 10px;
+    padding-top: 30px;
+    color: #fff;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.end a{
+    color: #fff;
+    text-decoration: none;
+    transition: 0.6s ease-in-out;
+}
+
+.end a:hover{
+    color: red;
+}
