@@ -162,7 +162,7 @@ body{
 
 .modal-footer button{
     color: black;
-    background-color: #08d4b6;
+    background: none;
 }
 
 .abt p{
