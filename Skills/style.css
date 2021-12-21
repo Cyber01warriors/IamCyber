@@ -85,7 +85,7 @@ h1 {
     width: 0;
   }
   to {
-    width: 50%;
+    width: 90%;
   }
 }
 
@@ -103,7 +103,16 @@ h1 {
     width: 0;
   }
   to {
-    width: 70%;
+    width: 40%;
+  }
+}
+
+@keyframes PHP {
+  from {
+    width: 0;
+  }
+  to {
+    width: 30%;
   }
 }
 
