@@ -80,7 +80,7 @@ h1 {
   width: 40%;
 }
 
-.PHP {
+.php {
   animation: js 2s;
   width: 30%;
 }
@@ -112,7 +112,7 @@ h1 {
   }
 }
 
-@keyframes PHP {
+@keyframes php {
   from {
     width: 0;
   }
