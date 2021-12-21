@@ -67,7 +67,7 @@ h1 {
 
 .html {
   animation: html 2s;
-  width: 50%;
+  width: 90%;
 }
 
 .css {
@@ -77,7 +77,12 @@ h1 {
 
 .js {
   animation: js 2s;
-  width: 70%;
+  width: 40%;
+}
+
+.PHP {
+  animation: js 2s;
+  width: 30%;
 }
 
 @keyframes html {
